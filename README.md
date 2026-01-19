@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anaquilla
-- 👀 I’m interested in programming, network, hacking, etc.
+- 👀 I’m interested in programming, networks,telecommunications, hacking, etc.
 - 🌱 I’m currently in university
 - 💞️ I’m looking to collaborate on different projects to learn more (small projects or big it's ok for everything)
 - 📫 How to reach me : discord, slack, etc.
