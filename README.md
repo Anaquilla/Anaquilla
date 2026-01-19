@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anaquilla
-- 👀 I’m interested in programming and hacking
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on different projects to learn everything (small projects or big it depends)
-- 📫 How to reach me mail, discord
+- 👀 I’m interested in programming, network, hacking, etc.
+- 🌱 I’m currently in university
+- 💞️ I’m looking to collaborate on different projects to learn more (small projects or big it's ok for everything)
+- 📫 How to reach me : discord, slack, etc.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
