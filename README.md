@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, networks,telecommunications, hacking, etc.
 - 🌱 I’m currently in university learning networks and telecommunications.
 - 💞️ I’m looking to collaborate on different projects to learn more (small projects or big it's ok for everything)
-- 📫 How to reach me : discord, slack, etc.
+- 📫 How to reach me : discord, slack, and there.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
