@@ -3,7 +3,7 @@
 - 🌱 I’m currently in university learning networks, telecommunications and programming
 - 💞️ I’m looking to collaborate on different projects to learn more (small projects or big it's ok for everything)
 - 📫 How to reach me : discord, slack, and there.
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
