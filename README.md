@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anaquilla
-- 👀 I’m interested in programming, networks and video games. 
-- 🌱 I’m currently in university learning networks, telecommunications and programming
-- 💞️ I’m looking to collaborate on different projects to learn more things(small projects or big it's ok for everything)
+- 👀 I’m interested in programming (python in particular) , networks and video games. 
+- 🌱 I’m currently in university learning networks, telecommunications and programming.
+- 💞️ I’m looking to collaborate on different projects to learn more things (small projects or big it's ok for everything).
 - 📫 How to reach me : discord, slack, and there (principaly here).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
